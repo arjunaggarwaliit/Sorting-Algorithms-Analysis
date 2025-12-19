@@ -30,41 +30,8 @@ The repository includes implementations and analysis of the following sorting al
 | Insertion Sort | Comparison | Yes    | Yes      | O(n) / O(n²) / O(n²)                 |
 | Merge Sort     | Comparison | Yes    | No       | O(n log n) / O(n log n) / O(n log n) |
 | Quick Sort     | Comparison | No     | Yes      | O(n log n) / O(n log n) / O(n²)      |
-| Heap Sort      | Comparison | No     | Yes      | O(n log n) / O(n log n) / O(n log n) |
 
 *(Exact set may vary depending on current repository state.)*
-
----
-
-## 📂 Repository Structure
-
-```
-Sorting-Algorithms-Analysis/
-│
-├── algorithms/
-│   ├── bubble_sort.cpp
-│   ├── selection_sort.cpp
-│   ├── insertion_sort.cpp
-│   ├── merge_sort.cpp
-│   ├── quick_sort.cpp
-│   └── heap_sort.cpp
-│
-├── analysis/
-│   ├── time_complexity.md
-│   ├── space_complexity.md
-│   └── observations.md
-│
-├── benchmarking/
-│   ├── input_generator.cpp
-│   ├── benchmark.cpp
-│   └── results/
-│
-├── plots/
-│   └── performance_graphs.png
-│
-├── README.md
-└── LICENSE
-```
 
 ---
 
@@ -159,26 +126,6 @@ Results will be printed to the console and/or saved in the `benchmarking/results
 
 ---
 
-## 🤝 Contributions
-
-Contributions are welcome! Feel free to:
-
-* Improve implementations
-* Add new algorithms
-* Extend analysis or visualization
-
-Please open an issue or submit a pull request.
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.
-
----
-
 ## 👤 Author
 
 **Arjun Aggarwal**
-B.Tech – Mathematics & Computing, IIT Ropar
-Interests: Algorithms, Competitive Programming, ML, Quantitative Finance
