@@ -115,11 +115,3 @@ g++ -O2 benchmarking/benchmark.cpp -o benchmark
 
 Results will be printed to the console and/or saved in the `benchmarking/results/` directory.
 
----
-
-## 🔮 Possible Extensions
-
-* Add non-comparison sorts (Counting, Radix, Bucket)
-* Compare STL `std::sort` with custom implementations
-* Visualize sorting demonstrations
-* Analyze cache misses and branch prediction
