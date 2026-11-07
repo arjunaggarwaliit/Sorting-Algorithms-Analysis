@@ -4,7 +4,7 @@ A comprehensive study and implementation of classical sorting algorithms with **
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Sorting algorithms are fundamental to computer science and appear extensively in **data structures, competitive programming, systems, and real-world applications**. While theoretical time complexity gives asymptotic guarantees, real-world performance often varies due to constants, memory access patterns, and input characteristics.
 
@@ -19,7 +19,7 @@ The goal is not just to implement sorting algorithms, but to **understand how an
 
 ---
 
-## 🧠 Algorithms Covered
+##  Algorithms Covered
 
 The repository includes implementations and analysis of the following sorting algorithms:
 
@@ -35,7 +35,7 @@ The repository includes implementations and analysis of the following sorting al
 
 ---
 
-## ⚙️ Implementation Details
+##  Implementation Details
 
 * All algorithms are implemented in **C++** with a focus on:
 
@@ -49,7 +49,7 @@ The repository includes implementations and analysis of the following sorting al
 
 ---
 
-## 📊 Benchmarking Methodology
+##  Benchmarking Methodology
 
 To ensure fair comparison:
 
@@ -74,7 +74,7 @@ To ensure fair comparison:
 
 ---
 
-## 📈 Key Observations
+##  Key Observations
 
 Some high-level insights obtained from experiments:
 
@@ -88,7 +88,7 @@ Detailed observations and graphs are available in the `analysis/` and `plots/` d
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 By exploring this repository, you will:
 
@@ -99,7 +99,7 @@ By exploring this repository, you will:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Compile
 
@@ -123,9 +123,3 @@ Results will be printed to the console and/or saved in the `benchmarking/results
 * Compare STL `std::sort` with custom implementations
 * Visualize sorting demonstrations
 * Analyze cache misses and branch prediction
-
----
-
-## 👤 Author
-
-**Arjun Aggarwal**
